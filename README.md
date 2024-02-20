@@ -4,7 +4,7 @@
 
 Clone project
 ```
-$git clone
+$git clone https://github.com/up1/demo-playwright.git
 $cd demo-playwright
 $npm install
 ```
