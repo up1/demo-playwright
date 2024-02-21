@@ -28,3 +28,13 @@ Run test with UI mode
 ```
 $npx playwright test --ui
 ```
+
+### Visual comparisons
+
+```
+$npx playwright test screenshot.spec.js
+```
+
+```
+$npx playwright test --update-snapshots
+```
